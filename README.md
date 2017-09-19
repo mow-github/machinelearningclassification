@@ -3,4 +3,5 @@ boilerplate code, scripts, modules, data for Introduction to Machine Learning wi
 
 
 ### use anaconda on windows
-* [anaconda]("https://www.anaconda.com/")
+* [anaconda](https://www.anaconda.com/)
+* 
